@@ -1,0 +1,14 @@
+	Right Accumbens Area  --->   2.8774931500000003
+	Left Accumbens Area  --->   2.8247356
+	Right_Amygdala  --->   3.259989600000001
+	Left Amygdala  --->   3.24844055
+	Right Caudate  --->   6.853184449999999
+	Left Caudate  --->   7.294786099999999
+	Right Hippocampus  --->   6.8395472
+	Left Hippocampus  --->   6.475528150000001
+	Right Pallidum  --->   2.8441397499999996
+	Left Pallidum  --->   2.744365550000001
+	Right Putamen  --->   4.364080350000001
+	Left Putamen  --->   4.636233600000001
+	Right Thalamus  --->   4.308954399999999
+	Left Thalamus  --->   4.972834049999999

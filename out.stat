@@ -1,0 +1,2 @@
+Min	Max	SampleErrMean	SampleErrSTD	FaceMean	FaceRMS	Hausdorff	MSD	MAD	Median	25percentile	68percentile	75percentile	95percentile	Dice	IntUnionRatio
+0.000000	5.001756	0.928235	0.708998	0.922859	1.157912	0.000000	1.364293	0.928235	0.792772	0.381524	1.142780	1.309301	2.278534	0.113547	0.060200
